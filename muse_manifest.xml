@@ -1,0 +1,310 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="georges-circle.com" resolutions="1x" timestamp="1563006826123">
+  <folder name="css">
+    <file name="site_global.css" crc="102133730"/>
+    <file name="master_full-page-master.css" crc="427402313" ref="page-1:services:when--where:senior:page-2:index:about:jrhigh-2:adult:kids"/>
+    <file name="page-1.css" crc="4254720433" ref="page-1"/>
+    <file name="iefonts_page-1.css" crc="40696171" ref="page-1"/>
+    <file name="services.css" crc="4068789259" ref="services"/>
+    <file name="iefonts_services.css" crc="4078698273" ref="services"/>
+    <file name="when--where.css" crc="4034571169" ref="when--where"/>
+    <file name="iefonts_when--where.css" crc="206398254" ref="when--where"/>
+    <file name="senior.css" crc="4271936880" ref="senior"/>
+    <file name="iefonts_senior.css" crc="4190292724" ref="senior"/>
+    <file name="page-2.css" crc="3780764469" ref="page-2"/>
+    <file name="index.css" crc="4183062063" ref="index"/>
+    <file name="iefonts_index.css" crc="377021185" ref="index"/>
+    <file name="about.css" crc="502802493" ref="about"/>
+    <file name="iefonts_about.css" crc="3779748495" ref="about"/>
+    <file name="jrhigh-2.css" crc="3935933284" ref="jrhigh-2"/>
+    <file name="adult.css" crc="3802590538" ref="adult"/>
+    <file name="kids.css" crc="29343476" ref="kids"/>
+    <file name="iefonts_kids.css" crc="4212228409" ref="kids"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>free-online-kids-activities:about:kids:senior:index:adult:when--where:page-1:jrhigh-2:services:page-2"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>free-online-kids-activities:about:kids:senior:index:adult:when--where:page-1:jrhigh-2:services:page-2"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>free-online-kids-activities:about:kids:senior:index:adult:when--where:page-1:jrhigh-2:services:page-2"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>free-online-kids-activities:about:kids:senior:index:adult:when--where:page-1:jrhigh-2:services:page-2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>free-online-kids-activities:about"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>free-online-kids-activities:about:kids:senior:index:adult:when--where:page-1:jrhigh-2:services:page-2"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:kids:services"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:kids:services"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:kids:services"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:kids:services"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>free-online-kids-activities:about:kids:senior:index:adult:when--where:page-1:jrhigh-2:services:page-2"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="about"/>
+  </folder>
+  <folder name="images">
+    <file name="home-page-master-favicon.ico" crc="148979268" ref="phone>index"/>
+    <file name="becf91b7d6c9acc5d235ccbafebdc212-u21659-fr.jpg" crc="443288205" ref="phone>index:phone>free-online-kids-activities"/>
+    <file name="earth-u21663.png" crc="4164129304" ref="phone>index"/>
+    <file name="images.jpg" crc="4094370472" seo="true" ref="phone>index:phone>free-online-kids-activities:about:kids:senior:index:adult:when--where:services">
+      <caption webpage="about" alt=""/>
+      <caption webpage="adult" alt=""/>
+      <caption webpage="free-online-kids-activities" alt=""/>
+      <caption webpage="free-online-kids-activities" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="when--where" alt=""/>
+      <caption webpage="senior" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="kids" alt=""/>
+    </file>
+    <file name="qrcode52511547.jpg" crc="104910899" seo="true" ref="phone>index:phone>free-online-kids-activities:about:kids:senior:index:adult:when--where:services">
+      <caption webpage="about" alt=""/>
+      <caption webpage="adult" alt=""/>
+      <caption webpage="free-online-kids-activities" alt=""/>
+      <caption webpage="free-online-kids-activities" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="when--where" alt=""/>
+      <caption webpage="senior" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="kids" alt=""/>
+    </file>
+    <file name="img-0058.jpg" crc="124191631" seo="true" ref="phone>index:phone>free-online-kids-activities:about:kids:senior:index:adult:when--where:services">
+      <caption webpage="about" alt=""/>
+      <caption webpage="adult" alt=""/>
+      <caption webpage="free-online-kids-activities" alt=""/>
+      <caption webpage="free-online-kids-activities" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="when--where" alt=""/>
+      <caption webpage="senior" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="kids" alt=""/>
+    </file>
+    <file name="u26822-4.png" crc="440970140" ref="phone>index"/>
+    <file name="coffee cup105x104.png" crc="402446969" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kids logo116x73.png" crc="4050471839" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="old people logo.png" crc="3950187368" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kids logo.png" crc="433443717" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_3196-crop-u21715.jpg" crc="3766973544" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:kids"/>
+    <file name="kamiichi1.jpg" crc="390942096" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kamiichi2-crop-u21711.jpg" crc="288140537" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kamiichi3-crop-u21713.jpg" crc="376488975" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:kids"/>
+    <file name="pasted image 393x122.png" crc="520507434" seo="true" ref="phone>index:about:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="pasted image 359x144.png" crc="80744496" seo="true" ref="phone>index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u21679-7.png" crc="128648849" ref="phone>index"/>
+    <file name="pasted image 361x150.png" crc="3952946171" seo="true" ref="phone>index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="______ ____________ _____.jpg" crc="4201549608" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kourei_mark_2svg.png" crc="4239569888" seo="true" ref="phone>index:senior">
+      <caption webpage="index" alt=""/>
+      <caption webpage="senior" alt=""/>
+    </file>
+    <file name="coffee cup.png" crc="4085750580" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 221x221.png" crc="311717853" seo="true" ref="phone>index:adult">
+      <caption webpage="index" alt=""/>
+      <caption webpage="adult" alt=""/>
+    </file>
+    <file name="pasted image 221x221-u21744.png" crc="3859814033" ref="phone>index"/>
+    <file name="u27252-4.png" crc="440970140" ref="phone>index"/>
+    <file name="earth-u22973.png" crc="4164129304" ref="phone>free-online-kids-activities"/>
+    <file name="u26916-4.png" crc="440970140" ref="phone>free-online-kids-activities"/>
+    <file name="pasted image 180x130.jpg" crc="4256397809" seo="true" ref="phone>free-online-kids-activities">
+      <caption webpage="free-online-kids-activities" alt=""/>
+    </file>
+    <file name="pasted image 222x141.png" crc="420152235" seo="true" ref="phone>free-online-kids-activities">
+      <caption webpage="free-online-kids-activities" alt=""/>
+    </file>
+    <file name="pasted image 191x191.png" crc="232254335" seo="true" ref="phone>free-online-kids-activities">
+      <caption webpage="free-online-kids-activities" alt=""/>
+    </file>
+    <file name="pasted image 150x232.jpg" crc="239622069" seo="true" ref="phone>free-online-kids-activities">
+      <caption webpage="free-online-kids-activities" alt=""/>
+    </file>
+    <file name="u26946-4.png" crc="3834149827" ref="phone>free-online-kids-activities"/>
+    <file name="becf91b7d6c9acc5d235ccbafebdc212.jpg" crc="4123901678" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="earth-u17722.png" crc="450970079" ref="about:kids:senior:index:adult:when--where:page-1:jrhigh-2:services:page-2"/>
+    <file name="______ ____________ _____2.jpg" crc="4267658735" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="green50x53.png" crc="4101029481" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u27387-4.png" crc="4036280227" ref="about"/>
+    <file name="u25503-4.png" crc="398233229" ref="kids"/>
+    <file name="u25500-6.png" crc="216781738" ref="kids"/>
+    <file name="dsc_3196-crop-u20653.jpg" crc="192758951" seo="true" ref="kids">
+      <caption webpage="kids" alt=""/>
+    </file>
+    <file name="kamiichi1-crop-u20712.jpg" crc="329353771" seo="true" ref="kids">
+      <caption webpage="kids" alt=""/>
+    </file>
+    <file name="kamiichi2-crop-u20721.jpg" crc="337598504" seo="true" ref="kids">
+      <caption webpage="kids" alt=""/>
+    </file>
+    <file name="kamiichi3-crop-u20730.jpg" crc="147277688" seo="true" ref="kids">
+      <caption webpage="kids" alt=""/>
+    </file>
+    <file name="u27357-4.png" crc="4036280227" ref="kids"/>
+    <file name="u27417-4.png" crc="4036280227" ref="senior"/>
+    <file name="coffee cup219x219.png" crc="360488275" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="light blue.png" crc="491024726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kids logo281x179.png" crc="4105415996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="young adult.png" crc="4234117581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u26532-4.png" crc="4036280227" ref="index"/>
+    <file name="u21015-10.png" crc="4141043678" ref="adult"/>
+    <file name="u21025-4.png" crc="149645467" ref="adult"/>
+    <file name="pasted image 221x221-u21016.png" crc="376061770" ref="adult"/>
+    <file name="u21018-21.png" crc="4291249222" ref="adult"/>
+    <file name="u27447-4.png" crc="4036280227" ref="adult"/>
+    <file name="u27540-4.png" crc="4036280227" ref="when--where"/>
+    <file name="click.png" crc="3785066295" seo="true" ref="page-1:jrhigh-2:page-2">
+      <caption webpage="page-2" alt=""/>
+      <caption webpage="page-2" alt=""/>
+      <caption webpage="page-2" alt=""/>
+      <caption webpage="page-1" alt=""/>
+      <caption webpage="page-1" alt=""/>
+      <caption webpage="page-1" alt=""/>
+      <caption webpage="jrhigh-2" alt=""/>
+      <caption webpage="jrhigh-2" alt=""/>
+      <caption webpage="jrhigh-2" alt=""/>
+    </file>
+    <file name="u20877-4.png" crc="4262062580" ref="jrhigh-2"/>
+    <file name="u20878-8.png" crc="371699480" ref="jrhigh-2"/>
+    <file name="u20849-4.png" crc="4098212573" ref="jrhigh-2"/>
+    <file name="u20855-4.png" crc="4277170800" ref="jrhigh-2"/>
+    <file name="u20859-4.png" crc="161089861" ref="jrhigh-2"/>
+    <file name="u20863-4.png" crc="218686304" ref="jrhigh-2"/>
+    <file name="u20869-4.png" crc="4116948511" ref="jrhigh-2"/>
+    <file name="u20868-4.png" crc="351801495" ref="jrhigh-2"/>
+    <file name="u20875-4.png" crc="84989988" ref="jrhigh-2"/>
+    <file name="bamboo-wood-flooring-texture.jpg" crc="3423035" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u21102-7.png" crc="338702220" ref="services"/>
+    <file name="pattern.png" crc="15610108" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u21084-7.png" crc="3828816581" ref="services"/>
+    <file name="u21094-6.png" crc="4280930743" ref="services"/>
+    <file name="u21090-7.png" crc="296066342" ref="services"/>
+    <file name="pasted image 490x221-crop-u21141.png" crc="4258660927" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="green.png" crc="161680648" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="pasted image 490x221-crop-u21159.png" crc="255719104" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="purple.png" crc="46675249" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="big-shadow.png" crc="291308941" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="pasted image 490x221-crop-u21150.png" crc="255719104" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="red.png" crc="498728038" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="pasted image 490x221-crop-u21174.png" crc="255719104" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="blue.png" crc="218560006" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u27477-4.png" crc="4036280227" ref="services"/>
+    <file name="u25735-4.png" crc="4262062580" ref="page-2"/>
+    <file name="u25736-8.png" crc="371699480" ref="page-2"/>
+    <file name="u25707-4.png" crc="4098212573" ref="page-2"/>
+    <file name="u25713-4.png" crc="4277170800" ref="page-2"/>
+    <file name="u25717-4.png" crc="161089861" ref="page-2"/>
+    <file name="u25721-4.png" crc="218686304" ref="page-2"/>
+    <file name="u25727-4.png" crc="4116948511" ref="page-2"/>
+    <file name="u25726-4.png" crc="351801495" ref="page-2"/>
+    <file name="u25733-4.png" crc="84989988" ref="page-2"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="246550279" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4003067328" ref="phone>index"/>
+      <file name="free-online-kids-activities.css" crc="287702523" ref="phone>free-online-kids-activities"/>
+    </folder>
+    <file name="index.html" crc="99925855" seo="true" mt="1562487144706" redirect="true"/>
+    <file name="free-online-kids-activities.html" crc="3836663671" seo="true" mt="1562486222020" redirect="true"/>
+  </folder>
+  <file name="about.html" crc="3820904481" seo="true" mt="1562488570423" redirect="true"/>
+  <file name="kids.html" crc="3885475400" seo="true" mt="1562488545185" redirect="true"/>
+  <file name="senior.html" crc="3930917438" seo="true" mt="1562488596645" redirect="true"/>
+  <file name="index.html" crc="93464915" seo="true" mt="1562992859373" redirect="true"/>
+  <file name="adult.html" crc="3856689034" seo="true" mt="1562488618794" redirect="true"/>
+  <file name="when--where.html" crc="439625165" seo="true" mt="1562992936934" redirect="true"/>
+  <file name="page-1.html" crc="4814663" seo="true" mt="1544498893539" redirect="true"/>
+  <file name="jrhigh-2.html" crc="4111558017" seo="true" mt="1544498893539" redirect="true"/>
+  <file name="services.html" crc="242373210" seo="true" mt="1562488639516" redirect="true"/>
+  <file name="page-2.html" crc="115594695" seo="true" mt="1544498893539" redirect="true"/>
+</manifest>
